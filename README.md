@@ -24,10 +24,13 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Achilleus)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquiles-sa)
 
-### Meus Status no Github:
+### 🎯Meus Status no Github:
 ![Aquiles Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiles-sa&show_icons=true&theme=dark)
 ![Aquiles Santos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&theme=blue-green)
 
+### 🖱️IDEs que mais utilizo:
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ### 👨‍💻Tecnologias que estou estudando e aprimorando minhas habilidades:
 
