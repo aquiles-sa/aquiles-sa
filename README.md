@@ -1,4 +1,4 @@
-### Olá!✋ Tudo bem? 
+### Olá! Tudo bem? ✋
 ### Me chamo Aquiles Santos. Tenho 18 anos e estou mergulhando no mundo de desenvolvimento de software.
 
 ### 🧑Algumas informações sobre mim:
