@@ -37,6 +37,7 @@
 <div style="display: inline-block">
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" />
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" /> &nbsp;
+    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"/> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
@@ -45,13 +46,12 @@
 ### 👨‍💻 Tecnologias que estou estudando no momento:
 
 <div style="display: inline_block">
-    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /> &nbsp;&nbsp;
+    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
 </div> <br />
 
 ### 💻 Também possuo interesse em estudar estas tecnologias:
 
 <div style="display: inline-block">
-    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js"/> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
