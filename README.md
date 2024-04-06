@@ -46,7 +46,8 @@
 ### 👨‍💻 Tecnologias que estou estudando no momento:
 
 <div style="display: inline_block">        
-    <img width=100 height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" /> &nbsp;
+    
+<img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />&nbsp;
 </div> <br />
 
 ### 💻 Também possuo interesse em estudar estas tecnologias:
