@@ -48,6 +48,8 @@
 <div style="display: inline_block">        
     
 <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />&nbsp;
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
+
 </div> <br />
 
 ### 💻 Também possuo interesse em estudar estas tecnologias:
@@ -60,8 +62,6 @@
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /> &nbsp;
     <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-    <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-    
 </div>
 <br />
 
