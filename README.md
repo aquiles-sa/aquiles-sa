@@ -1,7 +1,7 @@
 ### Hello!✋
 ### I'm Aquiles, and I'm 18 and I'm at the moment studying data analytics.
 
-### 🧑Some informations aboute me:
+### 🧑Some informations about me:
 
 <ul>
     <li>
@@ -15,6 +15,20 @@
     </li><br />
     <li>
         I like to listen Russian and German doomer musics and Lofi.
+    </li>
+</ul>
+
+### 🌐 Languages:
+
+<ul>
+    <li>
+        English - Intermediate(B1)
+    </li><br />
+    <li>
+        Spanish - Beginner(A2)
+    </li><br />
+    <li>
+        French - Beginner(A1)
     </li>
 </ul>
 
