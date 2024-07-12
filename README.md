@@ -22,13 +22,13 @@
 
 <ul>
     <li>
-        English - Intermediate(B1)
+        English - Intermediate
     </li><br />
     <li>
-        Spanish - Beginner(A2)
+        Spanish - Beginner
     </li><br />
     <li>
-        French - Beginner(A1)
+        French - Beginner
     </li>
 </ul>
 
