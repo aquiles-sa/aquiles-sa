@@ -1,15 +1,22 @@
 ### Olá! Tudo bem? ✋
-### Me chamo Aquiles Santos. Tenho 18 anos e estou mergulhando no mundo de desenvolvimento de software.
+### Sou Aquiles Araújo. Tenho 18 anos e estou estudando análise de dados.
 
 ### 🧑Algumas informações sobre mim:
 
 <ul>
     <li>
-        Gosto de leituras sobre filosofia, tecnologia e livros que abordam a realidade.
+        Estou fazendo bacharelado em Engenharia de software pela UCSAL.
+    </li><br />
+    <li>
+        Possuo personalidade introvertida, levemente tímida, adaptável e altamente honesta.
+    </li><br />
+    <li>
+        Ler, estudar e fotografar são os meus hobbies.
     </li><br />
     <li>
         Gosto de escutar músicas no estilo Lofi, Russian e German doomer a todo momento.
     </li>
+    
 </ul>
 
 ### 💬 Conecte-se comigo pelo:
