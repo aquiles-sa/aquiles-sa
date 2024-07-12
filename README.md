@@ -5,12 +5,6 @@
 
 <ul>
     <li>
-        Tive meu primeiro contato com programação na metade de 2022, porém consegui intensificar meus estudos em 2023.
-    </li><br/>
-    <li>
-        Enquadro-me como uma pessoa introvertida e que prefere passar a maior parte do tempo sozinha.
-    </li><br/>
-    <li>
         Gosto de leituras sobre filosofia, tecnologia e livros que abordam a realidade.
     </li><br />
     <li>
