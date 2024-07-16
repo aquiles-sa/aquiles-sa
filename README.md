@@ -44,7 +44,7 @@
 ### 🎯 GitHub status:
 
 ![Aquiles Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiles-sa&theme=blue-green) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&layout=compact&theme=blue-green) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&layout=compact&theme=blue-green)
 
 ### 🖱️ IDEs that I use the most:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
