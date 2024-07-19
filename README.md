@@ -43,7 +43,7 @@
 
 ### 🎯 GitHub status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&theme=blue-green) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&layout=compact&theme=blue-green) &nbsp;
 ![Aquiles Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiles-sa&theme=blue-green) 
 
 ### 🖱️ IDEs that I use the most:
