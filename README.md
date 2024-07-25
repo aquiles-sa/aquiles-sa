@@ -5,7 +5,7 @@
 
 <ul>
     <li>
-        I'm doing a graduating at Software Engineering at Universidade Católica de Salvador (UCSAL)
+        I'm doing a graduating in Software Engineering at Universidade Católica de Salvador (UCSAL)
     </li><br />
     <li>
         I have an introverted, adaptable, slightly shy and highly honest personality.
