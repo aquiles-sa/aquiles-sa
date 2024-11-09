@@ -27,9 +27,6 @@
     <li>
         Spanish - Beginner
     </li><br />
-    <li>
-        French - Beginner
-    </li>
 </ul>
 
 ### 💬 Connect with me:
