@@ -1,5 +1,5 @@
 ### Hello!✋
-### I'm Aquiles, I'm 19 and I'm at the moment studying data analytics.
+### I'm Aquiles, I'm 19 and I'm currently studying data analytics.
 
 ### 🧑Some informations about me:
 
