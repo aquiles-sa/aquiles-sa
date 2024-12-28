@@ -5,7 +5,7 @@
 
 <ul>
     <li>
-        I'm doing a graduating in Software Engineering at Universidade Católica de Salvador (UCSAL)
+        I'm doing a graduating in Software Engineering at Universidade Católica do Salvador (UCSAL)
     </li><br />
     <li>
         I have an introverted, adaptable, slightly shy and highly honest personality.
@@ -62,7 +62,7 @@
 
 <div style="display: inline_block">        
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div> 
 
