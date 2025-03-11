@@ -26,7 +26,7 @@
     </li><br />
     <li>
         Spanish - Beginner
-    </li><br />
+    </li>
 </ul>
 
 ### 💬 Connect with me:
