@@ -14,7 +14,7 @@
         Reading, studying and photography are my hobbies.
     </li><br />
     <li>
-        I like to listen Russian and German doomer musics and Lofi.
+        I like to listen Russian doomer musics, Retrowave and Lofi.
     </li>
 </ul>
 
