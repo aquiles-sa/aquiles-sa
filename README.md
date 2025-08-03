@@ -11,7 +11,7 @@
         I have an introverted, adaptable, slightly shy and highly honest personality.
     </li>
     <li>
-        Reading, playing and photography are my hobbies.
+        Reading and photography are my hobbies.
     </li>
     <li>
         I like to listen Russian doomer musics, Retrowave and Lofi.
