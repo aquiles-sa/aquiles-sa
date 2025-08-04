@@ -65,8 +65,8 @@
 <div style="display: inline_block">     
     
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-    
+[![Swing](https://img.shields.io/badge/Swing-007396?logo=openjdk&logoColor=white)](#)
+
 </div> 
 
 ### 💻 I am also interested in studying these technologies:
