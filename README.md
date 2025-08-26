@@ -65,7 +65,6 @@
 <div style="display: inline_block">     
     
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Swing](https://img.shields.io/badge/Swing-007396?logo=openjdk&logoColor=white)](#)
 
 </div> 
 
