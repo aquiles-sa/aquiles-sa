@@ -14,7 +14,7 @@
         Reading and photography are my hobbies.
     </li>
     <li>
-        I like to listen Russian doomer musics, Retrowave and Lofi.
+        I like to listen Russian doomer musics, Retrowave, Vaporwave and Synthwave.
     </li>
 </ul>
 
@@ -40,11 +40,6 @@
 <a href="mailto:aquiles2ws@gmail.com" target="_blank">
     ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 </a>
-
-### 🎯 GitHub status:
-
-![Aquiles Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiles-sa&theme=blue-green) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiles-sa&layout=compact&theme=blue-green&hide=html,css,sass,javascript)](https://github.com/aquiles-sa/github-readme-stats)
 
 ### 🖱️ IDEs that I use the most:
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
