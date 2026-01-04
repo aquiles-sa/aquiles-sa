@@ -60,13 +60,13 @@
 
 <div style="display: inline_block">
     
-[![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 
 </div> 
 
 ### 💻 I am also interested in studying these technologies:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br />
 
