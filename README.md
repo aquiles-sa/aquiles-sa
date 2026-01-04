@@ -66,6 +66,7 @@
 </div> 
 
 ### 💻 I am also interested in studying these technologies:
+[![Robot Framework](https://img.shields.io/badge/Robot_Framework-2ECC71?logo=robotframework&logoColor=fff)](#)
 [![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br />
