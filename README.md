@@ -60,7 +60,6 @@
 
 <div style="display: inline_block">
     
-[![PyTest](https://img.shields.io/badge/PyTest-Framework-0A9EDC?logo=pytest&logoColor=white)](#)
 [![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
 
 </div> 
