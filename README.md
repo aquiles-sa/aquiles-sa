@@ -62,6 +62,8 @@
 
 <div style="display: inline_block">
     
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](#)
+
 </div> 
 
 ### 💻 I am also interested in studying these technologies:
