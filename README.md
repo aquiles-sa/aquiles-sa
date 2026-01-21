@@ -49,6 +49,7 @@
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -59,8 +60,6 @@
 ### 👨‍💻 Technologies that I'm currently studying:
 
 <div style="display: inline_block">
-
-[![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
     
 </div> 
 
