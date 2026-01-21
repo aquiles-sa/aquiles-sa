@@ -54,8 +54,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](#)
-[![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?&logo=microsoft-word&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=fff)](#)
+[![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?logo=google-docs&logoColor=fff)](#)
+
 
 ### 👨‍💻 Technologies that I'm currently studying:
 
