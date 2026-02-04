@@ -67,7 +67,6 @@
 </div> 
 
 ### 💻 I am also interested in studying these technologies:
-[![Robot Framework](https://img.shields.io/badge/Robot_Framework-2ECC71?logo=robotframework&logoColor=fff)](#)
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br />
