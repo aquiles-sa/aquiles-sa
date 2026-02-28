@@ -61,8 +61,7 @@
 
 <div style="display: inline_block">
     
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](#)
 
 </div> 
 
@@ -72,6 +71,7 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=fff)](#)
 <br />
 
 
