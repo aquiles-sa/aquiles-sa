@@ -49,20 +49,24 @@
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+
 [![Playwright](https://img.shields.io/badge/Playwright-Testing-181717?logo=playwright&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)](#)
+
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](#)
+
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=fff)](#)
 [![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?logo=google-docs&logoColor=fff)](#)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=fff)](#)
 
 
 ### 👨‍💻 Technologies that I'm currently studying:
 
 <div style="display: inline_block">
     
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](#)
+[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=fff)](#)    
 
 </div> 
 
@@ -72,7 +76,6 @@
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=fff)](#)
 <br />
 
 
