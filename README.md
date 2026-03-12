@@ -65,7 +65,9 @@
 
 <div style="display: inline_block">
     
-[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=fff)](#)    
+[![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?logo=python&logoColor=fff)](#)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=fff)](#)
+[![TestNG](https://img.shields.io/badge/TestNG-FF6F00?logo=openjdk&logoColor=fff)](#)
 
 </div> 
 
