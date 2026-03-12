@@ -46,7 +46,6 @@
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 
 ### 📡 I have knowledge of the following technologies:
-
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
